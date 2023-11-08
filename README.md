@@ -22,7 +22,7 @@ In the world of online chess enthusiasts, where strategic thinking meets competi
    Focusing on player recognition and motivation, we inquire:
    - Which user won the most amount of games? In what percentage of those games was the user the higher-rated player?
 
-Our mission is to unravel the intricacies of chess victories, explore the significance of opening moves, evaluate the impact of player ratings, and celebrate the accomplishments of outstanding users in the chess community. By providing data-driven insights, we empower chess aficionados to elevate their gameplay, foster a deeper understanding of strategic dynamics, and nurture a sense of community and achievement within the realm of online chess.
+The goal of this project is to unravel the intricacies of chess victories, explore the significance of opening moves, evaluate the impact of player ratings, and celebrate the accomplishments of outstanding users in the chess community. By providing data-driven insights, we empower chess aficionados to elevate their gameplay, foster a deeper understanding of strategic dynamics, and nurture a sense of community and achievement within the realm of online chess.
 
 
 ## Data source
